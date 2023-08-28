@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+An Efficient deep learning framework for the recognition of house numbers in street view imagery.
 
 Link to the paper:
 https://ieeexplore......
