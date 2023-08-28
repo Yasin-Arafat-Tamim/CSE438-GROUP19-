@@ -1,21 +1,21 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/project/64eb7405c5a84b02c7b27ec9
 
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1MnY3yitB7cY-h3VGxNvdqnBMZAzBQ5PQmRslKJM65ag/edit?usp=sharing
 
 Project title:
-NLP using ANN
+An Efficient deep learning framework for the recognition of house numbers in street view imagery.
 
 Group Number:
-0
+19
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20301029	Name MD.YASIN ARAFAT TAMIM
+20301044	Name Md.Tariqul Islam
+20301148	Name Nabiha Tasnim Orchi
+20301080	Name Mohammad Tajwar Chowdhury
+20301362	Name Zohayer Bin Osman
